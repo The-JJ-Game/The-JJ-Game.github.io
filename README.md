@@ -1,2 +1,2 @@
 # The-JJ-Game.github.io
-[theJJgame](https://the-jj-game.github.io)
+[Link 2 website](https://the-jj-game.github.io)
