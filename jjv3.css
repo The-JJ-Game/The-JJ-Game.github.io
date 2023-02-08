@@ -1,0 +1,25 @@
+body	    {font-family: Sans Serif; font-size: 11pt; background-color: #01090D; color: #7bbaff;}
+		
+li.navlist	{display: inline; list-style-type: none;}
+
+a			{text-decoration: none; color: #7bbaff;}
+
+a:hover		{background: #7bbaff; color: black;}
+
+div.navbar  {}
+		
+div.content	{margin-left: 40px; margin-right: 40px; top: 68px;}
+
+div.audio	{text-align: center;} 
+
+div.movie	{text-align: center;}
+
+table.type1 {text-align: center}
+
+img.box     {height: 200px; width: 200px;}
+
+img.sbox     {height: 200px; width: 200px;}
+
+img.extra     {height: 100px; width: 100px;}
+
+th.main     {background-color: #7bbaff; color: black; border: 1;}

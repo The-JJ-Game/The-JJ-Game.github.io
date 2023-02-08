@@ -1,0 +1,112 @@
+Saved Strings for Development
+
+Link to CSS:
+    
+    <link rel="stylesheet" type="text/css" href="jjv3.css" />
+
+Use for lists
+    
+    <li><a href=""></a></li>
+
+Navigation List:
+    
+    <div class style="text-align: center;">
+	   <ul>
+		  <li class="navlist"><a href="JJSITEV3H.html">Home</a> &nbsp; | &nbsp; 
+		  <li class="navlist"><a href="JJDOWNLOAD.html">Download</a> &nbsp; | &nbsp; 
+		  <li class="navlist"><a href="JJEXTRAS.html">Extras</a> 
+	   </ul>
+    </div>
+
+Image Collection:
+
+    <img src="Game.png"/>
+    
+    <img src="launcher.png"/>
+    
+    <img src="JJ_GAME_ICON.png"/>
+    
+    <img src="3ds_controls.png"/>
+    
+    <img src="gameboy_controls.png"/>
+    
+    <img src="jjtitle.png"/>
+    
+    <img src="na.png"/>
+
+    <img src="JJbanner.png"/>
+
+    <img src="banner.png"/>
+    
+Footer to link back to Main Page:
+    <footer><a href="JJSITEV3H.html">Back Home</a></footer>   
+
+UNKNOWN:
+Abscondunt in aperto, intractato, unchained
+
+Table Expansion
+
+     <tr>
+        <th class="main">Do smth</th>
+        <th class="main">Do smth</th>
+        <th class="main">Do smth</th>
+    </tr>
+    <tr>
+        <td><img align="center" class="sbox" src="na.png" /></td>
+        <td><img align="center" class="sbox" src="na.png" /></td>
+        <td><img align="center" class="sbox" src="na.png" /></td>
+    </tr>
+    
+Simple link:
+
+    <a href="">link</a>
+
+CSS PORT V1:
+
+    body	    {font-family: Sans Serif; font-size: 11pt; background-color: black; color: #7bbaff;}
+		
+    li.navlist	{display: inline; list-style-type: none;}
+
+    a			{text-decoration: none; color: #7bbaff;}
+
+    a:hover		{background: #7bbaff; color: black;}
+
+    div.navbar  {}
+		
+    div.content	{margin-left: 40px; margin-right: 40px; top: 68px;}
+
+    div.audio	{text-align: center;} 
+
+    div.movie	{text-align: center;}
+
+    table.type1 {text-align: center}
+
+    img.box     {height: 200px; width: 200px;}
+
+    img.sbox     {height: 200px; width: 200px;}
+
+    img.extra     {height: 100px; width: 100px;}
+
+    th.main     {background-color: #7bbaff; color: black; border: 1;}
+    
+  Insert for Banner:
+   
+   <img align="center" src="banner.png" height="100" width="1280px" style="padding: 0px 0px 20px;">
+    
+  Important Links:
+    
+    JJSITEV3H.html
+    
+    JJDOWNLOAD.html
+    
+    Images.html
+    
+    jjv3.css
+    
+    JJEXTRAS.html
+    
+    JJSITEV3H.html
+    
+    JJBANK.html
+    
+    CODE.txt
